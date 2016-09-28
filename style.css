@@ -10,3 +10,16 @@ h1, h2 {
 img {
   float: left;
 }
+div {
+  float : left;
+  width : 300px;
+}
+#nav ul {
+  list-style-type: none;
+}
+#nav li{
+  display: inline;
+}
+#nav  a {
+  margin: 0px 25px 0px 25px;
+}
